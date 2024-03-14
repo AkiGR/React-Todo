@@ -1,7 +1,7 @@
 # プロジェクトクローンと起動方法
 
 ```cmd
-git clone git@github.com:AkiGR/React-Todo.git ~/Development
+git clone git@github.com:AkiGR/React-Todo.git ~/Developments
 cd ~/Development/React-Todo
 npm install
 npm start
